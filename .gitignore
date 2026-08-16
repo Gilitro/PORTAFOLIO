@@ -1,0 +1,27 @@
+# Ignorar entornos virtuales
+venv/
+.env/
+env/
+
+# Ignorar archivos generados por Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ignorar datos locales (evitar subir datos sensibles o pesados)
+data/*.csv
+data/*.json
+!src/data/sample_data.csv
+!src/data/feature_samples.json
+
+# Ignorar logs y modelos entrenados
+*.log
+models/*.cbm
+models/*.onnx
+
+# IDEs y OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

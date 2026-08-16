@@ -1,0 +1,13 @@
+{
+    "features": {
+        "timestamp": "2023-01-01T00:00:00",
+        "sma_20": 1.0515,
+        "sma_50": 1.0490,
+        "rsi_14": 58.5,
+        "macd": 0.0012,
+        "macd_signal": 0.0010,
+        "atr_14": 0.0025,
+        "volatility_target": 0.0030
+    },
+    "label_target": 1
+}
