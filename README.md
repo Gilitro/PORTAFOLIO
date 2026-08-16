@@ -2,7 +2,7 @@
 
 ¡Hola! Bienvenido a mi portafolio de evidencias. En este repositorio agrupo distintos proyectos de software, machine learning y ciencia de datos en los que he trabajado, organizados por carpetas para demostrar la evolución de mis habilidades técnicas.
 
-## 🧑‍💻 Sobre Mí
+##  Sobre Mí
 
 Soy **Alan Gilberto Guzmán Viniegra**, un desarrollador apasionado por crear soluciones tecnológicas, con experiencia en Python, análisis de datos, backends y estrategias algorítmicas. Me enfoco en escribir código limpio, documentado e implementando buenas prácticas de arquitectura y testing.
 
